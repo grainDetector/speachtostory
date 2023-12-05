@@ -1,4 +1,4 @@
 speechrecognition
 flask
-flask_cors
+pipwin
 pyaudio
