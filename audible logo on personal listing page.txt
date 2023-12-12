@@ -1,0 +1,17 @@
+Title:audible logo on personal listing page
+
+Pre-requisite:
+
+Description:
+
+AC1
+
+GIVEN a user is on their personal listing page
+WHEN the user scrolls to the bottom of the page
+THEN an audible logo should be present
+
+AC2
+
+Given a user is on a personal listing page
+When the user scrolls down
+Then an audible logo should be present

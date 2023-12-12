@@ -1,0 +1,11 @@
+Title:high definition logo on production listing page logo on production testing page logo on production listing page
+
+Pre-requisite:
+
+Description:
+
+AC1
+
+Given a production listing page
+When the user visits the page
+Then the page should display a high definition logo

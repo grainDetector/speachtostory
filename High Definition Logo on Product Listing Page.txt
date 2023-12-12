@@ -1,0 +1,11 @@
+AC1
+
+Given the user is on the product listing page
+When the user views a product
+Then the product should have a high-definition logo
+
+Scenario: High Definition Logo on Product Listing Page
+Given the user is on the product listing page
+When the user views a product
+Then the product should have a logo that is at least 300x300px
+And the logo should be in a vector format

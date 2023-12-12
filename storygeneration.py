@@ -16,3 +16,4 @@ def storygen(prompt):
     response = query.choices[0].text
     print(response)
     return response
+

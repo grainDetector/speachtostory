@@ -1,0 +1,21 @@
+Title:high definition logo or production listing page
+
+Pre-requisite:
+
+Description:
+
+AC1
+
+Acceptance Criteria:
+
+Given a high definition logo or production listing page
+When a user visits the page
+Then the logo/list should be displayed in high definition
+
+AC2
+
+Feature: High Definition Logo or Production Listing Page
+Scenario: User Requests a High Definition Logo or Production Listing Page
+Given the user is on the website
+When the user requests a high definition logo or production listing page from the website
+Then the website should provide the user with a high definition logo or production listing page

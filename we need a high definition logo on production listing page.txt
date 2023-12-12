@@ -1,0 +1,11 @@
+Title:we need a high definition logo on production listing page
+
+Pre-requisite:
+
+Description:
+
+AC1
+
+Given that a production listing page exists
+When the page is loaded 
+Then the logo should be rendered in high definition
